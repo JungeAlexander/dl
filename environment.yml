@@ -75,5 +75,8 @@ dependencies:
   - jupyter-console==5.1.0
   - jupyter-core==4.3.0
   - prompt-toolkit==1.0.14
+  - protobuf==3.3.0
+  - tensorflow==1.1.0
+  - werkzeug==0.12.2
 prefix: /Users/alexanderjunge/anaconda/envs/dl
 
