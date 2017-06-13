@@ -2,6 +2,12 @@
 
 ## Dependencies
 
+Install graphviz:
+
+```
+brew install graphviz
+```
+
 Create and activate a virtual environment with all dependencies
 installed using [conda](https://conda.io/docs/download.html).
 

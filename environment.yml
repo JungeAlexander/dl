@@ -73,14 +73,13 @@ dependencies:
 - xz=5.2.2=1
 - zlib=1.2.8=3
 - pip:
-  - graphviz==0.7.1
   - ipython-genutils==0.2.0
   - jupyter-client==5.0.1
   - jupyter-console==5.1.0
   - jupyter-core==4.3.0
   - prompt-toolkit==1.0.14
   - protobuf==3.3.0
-  - pydot==1.2.3
+  - pydot-ng==1.0.0
   - tensorflow==1.1.0
   - werkzeug==0.12.2
 prefix: /Users/alexanderjunge/anaconda/envs/dl
